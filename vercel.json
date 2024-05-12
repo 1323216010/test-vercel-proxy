@@ -1,5 +1,5 @@
 {
     "routes": [
-      {"src": "/(.*)","dest": "https://chat.openai.com"}
+      {"src": "/(.*)","dest": "https://www.booking.com"}
     ]
 }
