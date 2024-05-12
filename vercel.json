@@ -1,5 +1,5 @@
 {
     "routes": [
-      {"src": "/(.*)","dest": "https://www.google.com.hk"}
+      {"src": "/(.*)","dest": "https://www.youtube.com"}
     ]
 }
