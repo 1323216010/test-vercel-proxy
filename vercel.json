@@ -1,5 +1,5 @@
 {
-    "routes": [
-      {"src": "/(.*)","dest": "https://www.bing.com"}
-    ]
+  "routes": [
+    { "src": "/buy/deep-live-cam/(.*)", "dest": "https://www.bing.com" }
+  ]
 }
