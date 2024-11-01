@@ -1,7 +1,6 @@
 {
     "routes": [
       { "src": "/buy/deep-live-cam/?(.*)", "dest": "https://m.tb.cn/h.gqQJKMJ?tk=U1le3SANqaw" },
-      { "src": "/gamil", "dest": "smtp.gmail.com" },
       { "src": "/download1", "dest": "https://github.com/pyenv/pyenv.git" }
     ]
   }
